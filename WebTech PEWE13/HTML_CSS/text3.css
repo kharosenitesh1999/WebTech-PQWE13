@@ -1,0 +1,18 @@
+body{
+
+    background-color: sandybrown;
+    border: 10px solid rgb(8, 8, 8);
+    border-radius: 100px;
+    
+}
+h1{
+    color: red;
+    border:5px solid yellow;
+    background-color:aquamarine
+}
+h2{
+
+    color: purple;
+    border: 5px solid green;
+    background-color:rgb(19, 212, 87)
+}
